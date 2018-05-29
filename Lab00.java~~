@@ -1,0 +1,12 @@
+public class Lab00
+{
+   public static void main(String[] args)
+   {
+    #declaring and initializing some variables
+    int x = 5;
+    string y = "hello";
+    double z = 9.8;
+
+   
+   }
+}
